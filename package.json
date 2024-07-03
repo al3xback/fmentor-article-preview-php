@@ -1,16 +1,6 @@
 {
 	"name": "fmentor-article-preview-php",
+	"private": true,
 	"version": "1.0.0",
-	"description": "article preview component using php",
-	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/al3xback/fmentor-article-preview-php.git"
-	},
-	"author": "alex <al3xback@gmail.com>",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/al3xback/fmentor-article-preview-php/issues"
-	},
-	"homepage": "https://github.com/al3xback/fmentor-article-preview-php#readme"
+	"type": "module"
 }
